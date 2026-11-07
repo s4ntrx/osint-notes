@@ -174,6 +174,7 @@ Investigation directory — tools, feeds, and sources.
 | [SignalHire](https://www.signalhire.com/) | LinkedIn email extraction (freemium) |
 | [SnapChat Explore](https://www.snapchat.com/discover) | Use search bar to search for usernames, tags f.e. |
 | [SnapChat Political Ads Database](https://www.snap.com/political-ads) | Political Ads Database starting from 2018 |
+| [SnapDataHub](https://snapdatahub.com/) | Public Snapchat profile stats: subscribers over time, Spotlight views, engagement |
 | [Snaplytics](https://snaplytics.io/) | Several tools to download profile pictures, stories and videos |
 | [SnooSnoop](https://snoosnoop.com/) | Analyze Reddit user |
 | [Social Blade](https://socialblade.com/) | Stats on YouTube/Twitch/Twitter accounts |
