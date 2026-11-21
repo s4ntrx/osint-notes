@@ -1,3 +1,4 @@
 - Username `instantusername.com`
 - Individuals `rocketreach.co`
 - Facial Recognition `pimeyes.com`
+- Hashes `Hashes.com` & `Onlinehashcrack.com` & `Cyberchef`
